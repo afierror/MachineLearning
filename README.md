@@ -41,7 +41,7 @@ This repository contains implementations of various machine learning algorithms 
 1. Clone the repository
 ```bash
 git clone https://github.com/afierror/MachineLearning.git
-cd machine-learning-algorithms
+cd MachineLearning
 ```
 3. Install required packages
 4. 
