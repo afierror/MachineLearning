@@ -28,22 +28,6 @@ This repository contains implementations of various machine learning algorithms 
 * 🧠 Long Short-Term Memory (LSTM)
 * ✨ Transformers
 
-## 🚀 Getting Started
-### 📋 Prerequisites
-* Python 3.6+
-* NumPy
-* Pandas
-* Scikit-learn
-* Matplotlib
-* Pytorch
-
-## ⚙️ Installation
-Clone the repository
-```bash
-git clone https://github.com/afierror/MachineLearning.git
-cd MachineLearning
-```
-
 ## ⚙️ Resources
 * [scikit-learn Documentation](https://scikit-learn.org/stable/) 📚
 * [TensorFlow Tutorials](https://www.tensorflow.org/tutorials?hl=es-419) 🧠
