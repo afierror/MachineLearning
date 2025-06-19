@@ -46,6 +46,6 @@ cd MachineLearning
 
 ## ⚙️ Resources
 * [scikit-learn Documentation](https://scikit-learn.org/stable/) 📚
-* TensorFlow Tutorials 🧠
-* PyTorch Tutorials 🔥
-* Pattern Recognition and Machine Learning 📘
+* [TensorFlow Tutorials](https://www.tensorflow.org/tutorials?hl=es-419) 🧠
+* [PyTorch Tutorials](https://docs.pytorch.org/tutorials/) 🔥
+* [Pattern Recognition and Machine Learning](https://link.springer.com/book/9780387310732) 📘
