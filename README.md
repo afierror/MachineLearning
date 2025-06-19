@@ -38,10 +38,14 @@ This repository contains implementations of various machine learning algorithms 
 * Pytorch
 
 ## ⚙️ Installation
-1. Clone the repository
+Clone the repository
 ```bash
 git clone https://github.com/afierror/MachineLearning.git
 cd MachineLearning
 ```
-3. Install required packages
-4. 
+
+## ⚙️ Resources
+* [scikit-learn Documentation](https://scikit-learn.org/stable/) 📚
+* TensorFlow Tutorials 🧠
+* PyTorch Tutorials 🔥
+* Pattern Recognition and Machine Learning 📘
