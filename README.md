@@ -39,7 +39,7 @@ This repository contains implementations of various machine learning algorithms 
 
 ## ⚙️ Installation
 1. Clone the repository
-```python
+```bash
 git clone https://github.com/afierror/MachineLearning.git
 cd machine-learning-algorithms
 ```
