@@ -7,8 +7,8 @@ Implementation of **Linear Regression** from scratch (using NumPy) and with scik
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/linear-regression.git
-cd linear-regression
+git clone https://github.com/afierror/MachineLearning/tree/main/LinearRegression.git
+cd LinearRegression
 pip install -r requirements.txt  # numpy, matplotlib, scikit-learn
 ```
 ### Basic Usage
