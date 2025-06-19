@@ -38,3 +38,10 @@ This repository contains implementations of various machine learning algorithms 
 * Pytorch
 
 ## ⚙️ Installation
+1. Clone the repository
+```python
+git clone https://github.com/your-username/machine-learning-algorithms.git
+cd machine-learning-algorithms
+```
+3. Install required packages
+4. 
